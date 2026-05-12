@@ -1,1 +1,1 @@
-echo "print('Hello Git')"
+echo "print('Second update')"
